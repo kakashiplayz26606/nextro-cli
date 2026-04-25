@@ -13,7 +13,7 @@ pip3 install -U yt-dlp
 
 # Clone repo
 
-git clone https://github.com/YOUR_USERNAME/nextro-cli.git
+git clone https://github.com/kakashiplayz26606/nextro-cli.git
 cd nextro-cli
 
 # Install node packages
